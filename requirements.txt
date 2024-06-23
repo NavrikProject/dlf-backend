@@ -1,2 +1,7 @@
-Flask
 google-cloud-documentai
+Flask==2.0.3
+Flask-CORS==3.0.10
+google-api-python-client==2.38.0
+google-auth==2.6.6
+google-auth-oauthlib==0.4.6
+werkzeug==2.0.3
