@@ -8,7 +8,6 @@ from googleapiclient.http import MediaFileUpload
 
 app = Flask(__name__)
 CORS(app)
-
 # Get the current working directory
 current_dir = os.getcwd()
 print("Current Directory:", current_dir)
